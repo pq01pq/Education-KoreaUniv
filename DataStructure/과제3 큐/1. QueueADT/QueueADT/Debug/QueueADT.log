@@ -1,0 +1,5 @@
+﻿  QueueADT.c
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제3 큐\1. queueadt\queueadt\queueadt.c(15): warning C4022: 'enqueue': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제3 큐\1. queueadt\queueadt\queueadt.c(17): warning C4022: 'enqueue': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제3 큐\1. queueadt\queueadt\queueadt.c(19): warning C4022: 'enqueue': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+  QueueADT.vcxproj -> C:\Users\pq01p\Desktop\오정석\2019-2\자료구조\과제3 큐\1. QueueADT\Debug\QueueADT.exe

@@ -1,0 +1,6 @@
+﻿  binarySearchTreeADT.c
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제6 이진탐색트리\1. binarysearchtreeadt\binarysearchtreeadt\binarysearchtreeadt.c(8): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제6 이진탐색트리\1. binarysearchtreeadt\binarysearchtreeadt\binarysearchtreeadt.c(25): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  코드를 생성하고 있습니다...
+  binarySearchTreeADT.vcxproj -> C:\Users\pq01p\Desktop\오정석\2019-2\자료구조\과제6 이진탐색트리\1. binarySearchTreeADT\Debug\binarySearchTreeADT.exe

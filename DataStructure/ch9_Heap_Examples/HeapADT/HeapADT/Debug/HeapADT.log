@@ -1,0 +1,5 @@
+﻿  heapADT.c
+c:\users\pq01p\desktop\나\2019-2\자료구조\ch9_heap_examples\heapadt\heapadt\heapadt.c(43): warning C4047: 'return': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  main.c
+  코드를 생성하고 있습니다...
+  HeapADT.vcxproj -> C:\Users\pq01p\Desktop\나\2019-2\자료구조\ch9_Heap_Examples\HeapADT\Debug\HeapADT.exe

@@ -1,0 +1,19 @@
+﻿  StackADT.c
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.h(63): warning C4033: 'StackTop'은(는) 값을 반환해야 합니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(19): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(28): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(29): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(53): warning C4022: 'Push': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(54): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(55): warning C4022: 'Push': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(56): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(57): warning C4022: 'Push': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(58): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(59): warning C4022: 'Push': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(60): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(61): warning C4022: 'Push': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(62): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.c(70): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'void *'입니다.
+c:\users\pq01p\desktop\오정석\2019-2\자료구조\과제2 스택\1. stackadt\stackadt\stackadt.h(67): warning C4715: 'StackTop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  StackADT.vcxproj -> C:\Users\pq01p\Desktop\오정석\2019-2\자료구조\과제2 스택\1. StackADT\Debug\StackADT.exe
